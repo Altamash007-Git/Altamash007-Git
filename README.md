@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Altamash+Subhedar;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
----
-
 <!-- SOCIAL BADGES -->
 <h3 align="center">🌐 Social Profiles</h3>
 
@@ -30,13 +28,10 @@
   </a>
 </p>
 
----
-
 ### 👨‍💻 About Me
 I’m a **Full-Stack Developer** with expertise in **MERN stack, Django, and scalable web apps**.  
 I specialize in building responsive, accessible, and data-driven applications while freelancing globally on Fiverr & Upwork.
 
----
 
 ### 🛠️ Tech Skills
 
@@ -74,15 +69,11 @@ I specialize in building responsive, accessible, and data-driven applications wh
   <img src="https://img.shields.io/badge/-AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </p>
 
----
-
 ### 🏆 Major Achievements
 - Built multiple **responsive web apps** (Hotel Management, Food Order, Expense Tracker, Keeper App).  
 - Developed **RESTful APIs** with Node.js & Express.js.  
 - Presented research paper on **Sentiment Analysis of Customer Reviews Using ML** at a national conference.  
 - Solved **300+ DSA problems on LeetCode**.  
-
----
 
 ### 📊 GitHub Stats (Tokyo Night Theme)
 <p align="center">
@@ -91,15 +82,11 @@ I specialize in building responsive, accessible, and data-driven applications wh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altamash007-Git&layout=compact&theme=tokyonight" />
 </p>
 
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Altamash007-Git&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
----
 
 <h3 align="center">🤝 Connect with me</h3>
 
