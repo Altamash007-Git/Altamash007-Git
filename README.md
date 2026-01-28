@@ -75,7 +75,7 @@ I specialize in building responsive, accessible, and data-driven applications wh
 - Presented research paper on **Sentiment Analysis of Customer Reviews Using ML** at a national conference.  
 - Solved **300+ DSA problems on LeetCode**.  
 
-### 📊 GitHub Stats (Tokyo Night Theme)
+### 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Altamash007-Git&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altamash007-Git&theme=tokyonight" />
